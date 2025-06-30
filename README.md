@@ -21,7 +21,7 @@ A Laravel-based mood tracking web application that allows users to log, review, 
 ### Prerequisites
 - PHP >= 8.1
 - Composer
-- MySQL or other supported DB
+- MySQL 
 - Node.js & npm
 
 ### Installation
