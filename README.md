@@ -1,3 +1,11 @@
+![Screenshot 2025-06-30 093658](https://github.com/user-attachments/assets/25e69d0e-0498-4e4a-9bf1-a883a0df50b4)
+![Screenshot 2025-06-30 093622](https://github.com/user-attachments/assets/300d18cc-d731-4f7d-a475-fcad1b0e22d3)
+![Screenshot 2025-06-30 093458](https://github.com/user-attachments/assets/059f48ac-2c23-4f48-914b-7ab791e936ff)
+![Screenshot 2025-06-30 093426](https://github.com/user-attachments/assets/a8b43a73-2e11-45cd-8aaf-77b35d5053a3)
+![Screenshot 2025-06-30 093350](https://github.com/user-attachments/assets/527748af-3570-4797-9b9a-30f3bf9522a3)
+![Screenshot 2025-06-30 093326](https://github.com/user-attachments/assets/67655cde-7eef-400b-ace0-ef994dc46c37)
+![Screenshot 2025-06-30 093259](https://github.com/user-attachments/assets/512f82ca-d00f-4fe3-be38-879fe8023bf6)
+![Screenshot 2025-06-30 093227](https://github.com/user-attachments/assets/2e458b9b-0d04-4555-8868-3c0b6e9729e6)
 # 🌤️ Daily Mood Tracker Web App
 
 A Laravel-based mood tracking web application that allows users to log, review, and analyze their moods on a daily basis.
